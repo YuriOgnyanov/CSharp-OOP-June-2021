@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\bin\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.AssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Raiding\obj\Debug\netcoreapp3.1\Raiding.genruntimeconfig.cache

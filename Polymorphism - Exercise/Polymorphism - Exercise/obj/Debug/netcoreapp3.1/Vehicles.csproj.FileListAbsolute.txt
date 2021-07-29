@@ -1,0 +1,13 @@
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\yurio\OneDrive\Documents\Visual Studio 2019\C# OOP\Polymorphism - Exercise\Polymorphism - Exercise\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache
